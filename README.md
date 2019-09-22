@@ -1,4 +1,4 @@
-# Credit-EDA-Case-Study
+# Gramener_Credit-Case-Study
 
 Introduction
 
